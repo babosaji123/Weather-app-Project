@@ -1,4 +1,4 @@
-1. problem statement:
+
 # Weather-app-Project
 # React Weather App
 This is a web app developed as a final project for SheCodes React using React.js. It allows users to search for the weather conditions of any city in the world and provides current weather information. The app fetches weather data using the SheCodes Weather API.
@@ -23,6 +23,9 @@ To use this app, you can follow these steps:
 - Open your browser and navigate to `http://localhost:3000` to use the app.
 
 To use the app, simply type the name of the city you want to search for in the search bar and press Enter. The app will display the current weather conditions for the searched city.
+
+DEMO:https://weather-jp-forecast-app.netlify.app
+  
 
 
 
